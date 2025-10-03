@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Yuvansh  
+# 👋 Hey, I’m Yuvansh  Chauhan
 
 - 🎓 **B.Tech CSE @ IIIT Dharwad**  
 - 💻 **Into DSA • Dev • Coding • Problem Solving**  
